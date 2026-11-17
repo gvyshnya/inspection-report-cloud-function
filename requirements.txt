@@ -1,0 +1,6 @@
+pandas
+objectpath
+google-cloud
+google-auth
+google-cloud-storage
+flask

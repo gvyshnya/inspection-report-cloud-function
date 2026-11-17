@@ -1,8 +1,8 @@
-dev_project="fcg-bi-dev"
-dev_service_account="bi-dev-dataflow@fcg-bi-dev.iam.gserviceaccount.com"
+dev_project="abc-bi-dev"
+dev_service_account="bi-dev-dataflow@abc-bi-dev.iam.gserviceaccount.com"
 
-prod_project="fcg-bi-prod"
-prod_service_account="bi-prod-dataflow@fcg-bi-prod.iam.gserviceaccount.com"
+prod_project="abc-bi-prod"
+prod_service_account="bi-prod-dataflow@abc-bi-prod.iam.gserviceaccount.com"
 
 function_name="bi-flow-parse-inspection-report-schema-files"
 entry_point="parse_schema_files"
